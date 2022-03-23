@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/oneplus2.mk
+    $(LOCAL_DIR)/msm8916.mk
